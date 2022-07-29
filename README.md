@@ -1,6 +1,6 @@
 -#sobre mim
 -
--  👋 oi, meu nome é amorimluna
+-  👋 oi, meu nome é amorimluna15
 - 👀 eu estou interessada em aprender um programa novo
 - 🌱 eu estou aprendendo a falar em ingles
 <!---
