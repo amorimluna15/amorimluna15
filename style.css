@@ -3,7 +3,7 @@ body {
 }
 
 #banner{
-    
+    width: 100%;
     
 }
 
@@ -23,4 +23,12 @@ p {
  em strong {
     
     color: red;
+}
+
+.itens {
+    font-style: italic
+}
+
+.benefícios{
+    background: #FFFFFF;
 }
