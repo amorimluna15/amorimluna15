@@ -1,10 +1,14 @@
 body {
-    background: #cccccc;
+    
 }
 
 #banner{
     width: 100%;
     
+}
+
+.principal{
+    background: #cccccc;
 }
 
 h1 {
@@ -31,4 +35,8 @@ p {
 
 .benefícios{
     background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
 }
